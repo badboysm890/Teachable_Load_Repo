@@ -1,11 +1,13 @@
 # Teachable Template to load the pre trained model
 
-## install VS Code
+## Steps
 
-## Install Live Server 
+- install VS Code
 
-## Open the folder that you have downloaded
+- Install Live Server 
 
-## Move the model.json and weights to the folder by replacing the exsisting one
+- Open the folder that you have downloaded
 
-## The Model should load fine and run
+- Move the model.json and weights to the folder by replacing the exsisting one
+
+- The Model should load fine and run
